@@ -76,5 +76,5 @@ button {
 
 button:hover {
     background-color: darken(var(--button-bg-color), 10%);
-    
+
 }
